@@ -1,6 +1,9 @@
 # Python-Tkinter-Counter-App
 A beginner-friendly GUI project built with Python Tkinter library.
 
+## Watch Video on YouTube:
+https://www.youtube.com/watch?v=j4qfoUqQRJE
+
 ## Features
 - This Project is a beginner-friendly guide to Tkinter Library where you will learn:
 - Creating a Tkinter Window
