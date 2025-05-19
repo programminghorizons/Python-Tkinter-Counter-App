@@ -54,4 +54,5 @@ btnDown.grid(row=0, column=1, padx=10, pady=5)
 outputLabel = tk.Label(root, text="", font=('Arial', 14))
 outputLabel.pack()
 
+# Display the main window
 root.mainloop()
